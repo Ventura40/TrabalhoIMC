@@ -1,7 +1,7 @@
 name: Integração Contínua com Minunit
 
 on:
-  commit:
+  push:
     branches:
       - main
   pull_request:
